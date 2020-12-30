@@ -3,6 +3,8 @@
 <!--
 **JesusAtao96/JesusAtao96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://raw.githubusercontent.com/JesusAtao96/JesusAtao96/main/hero.png" alt="Banner">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
