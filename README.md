@@ -12,7 +12,7 @@ I am a frontend developer passionate about technology ❤️, I love to build ex
 * 🚀  I'm currently working on [???](http://modelcontextprotocol.io/introduction)
 * 🧠  I'm learning Kotlin, Swift, Flutter and React Native
 * 🤝  I'm open to collaborating on interesting proyects
-* ⚡  My Frontend Mentor profile -> [here](https://www.frontendmentor.io/profile/JesusAtao96)
+* ⚡  My Frontend Mentor profile -> [https://www.frontendmentor.io/profile/JesusAtao96](https://www.frontendmentor.io/profile/JesusAtao96)
 
 ### Skills
 
